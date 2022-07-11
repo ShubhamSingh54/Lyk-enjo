@@ -62,7 +62,7 @@ const logout = async () => {
                   alt="Workflow"
                 /> */}
               </div>
-                <a className="font-bold text-cyan-300 italic text-2xl mb-2" href="/">~Lyk~</a>
+                <a className="font-bold text-cyan-300 italic text-2xl mb-2" href="/">~Lyk-enjo~</a>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">
                 <Link to="/" className=" hover:bg-red-700 text-white px-3 py-2 rounded-md text-sm font-medium">
